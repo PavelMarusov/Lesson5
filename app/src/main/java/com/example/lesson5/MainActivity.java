@@ -15,6 +15,7 @@ TextFragment textFragment = new TextFragment();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         changeFragment(R.id.container,ButtonFragment.create(this));
+        // khgkhgghfgfhjk
     }
 
 public void changeFragment(int container, Fragment fragment){
